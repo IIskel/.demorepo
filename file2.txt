@@ -1,2 +1,2 @@
 This is file 2
-Here we go 
+Thi is text file 
