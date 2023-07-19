@@ -3,4 +3,8 @@ whenever we check using git diff
 2. The Green color is the line or file which was present in the previous but not in the current 
 3. The white color is not changed file 
 
+
 This is file 2
+=======
+I have named it as file 2
+
